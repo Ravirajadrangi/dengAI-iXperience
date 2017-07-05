@@ -1,6 +1,6 @@
 # dengAI-iXperience
 
-The models in this repository were adapted from similar models (for instance, classification models instead of regression) taught to the students in iXperience's 2nd session of [Applied AI](http://ixperience.co.za/courses/applied-ai).
+The models in this repository were adapted from similar models (for instance, classification models instead of regression) taught to the students in [iXperience's](http://ixperience.co.za/courses/applied-ai) 2nd session of Applied AI.
 
 ### DengAI
 
